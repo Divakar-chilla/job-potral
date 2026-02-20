@@ -5,8 +5,9 @@ import Verifyotp from "../register/Verifyotp";
 
 import SpinnerLoader from "../loaders/SpinnerLoader";
 import Home from "../home/Home";
-import Login from "../login/login";
+
 import PrivateRoutes from "./privateRoutes/PrivateRoutes";
+import Login from "../login/login";
 
 
 let Routes = createBrowserRouter(
