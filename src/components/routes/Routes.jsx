@@ -7,7 +7,8 @@ import SpinnerLoader from "../loaders/SpinnerLoader";
 import Home from "../home/Home";
 
 import PrivateRoutes from "./privateRoutes/PrivateRoutes";
-import Login from "../login/login";
+import Login from "../loginTemp/Login";
+
 
 
 let Routes = createBrowserRouter(
